@@ -1,0 +1,18 @@
+{
+    "name": "Meloetta by C#",
+    "version": "1.0.0",
+    "description": "A quick little piano, right at your fingertips.",
+    "manifest_version": 3,
+    "icons": {
+        "16": "assets/DR1_!.png",
+        "32": "assets/DR1_!.png",
+        "48": "assets/DR1_!.png",
+        "128": "assets/DR1_!.png"
+    },
+    "author": "C# | Omkar Amlan Krishna",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    },
+    "permissions":["activeTab"]
+}
