@@ -1,2 +1,0 @@
-Extension: D:\Projects\C#\Piano.crx
-Key File: D:\Projects\C#\Piano.pem
